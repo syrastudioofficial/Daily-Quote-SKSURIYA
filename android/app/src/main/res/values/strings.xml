@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Daily Dose of Joy</string>
+    <string name="title_activity_main">Daily Dose of Joy</string>
+    <string name="package_name">com.dailydoseofjoy.app</string>
+    <string name="custom_url_scheme">com.dailydoseofjoy.app</string>
+</resources>
